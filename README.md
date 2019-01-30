@@ -6,8 +6,7 @@ A SceneKit model of a Tachikoma from Ghost in the Shell that can be used for ARK
 
 -----
 
-<img width="799" alt="screen shot 2019-01-30 at 3 20 09 pm" src="https://user-images.githubusercontent.com/26630013/52019753-aea79c00-24a3-11e9-846a-614514ec60ca.png">
-
+<img width="1157" alt="screen shot 2019-01-30 at 3 47 12 pm" src="https://user-images.githubusercontent.com/26630013/52020523-6c338e80-24a6-11e9-90a6-42b437ce4518.png">
 
 -----
 
